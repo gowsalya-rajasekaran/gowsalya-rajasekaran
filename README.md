@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Gowsalya 👋
 
-<!--
-**gowsalya-rajasekaran/gowsalya-rajasekaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Curious about data. Obsessed with learning. Building things that make sense.
 
-Here are some ideas to get you started:
+## 🌱 What I'm Exploring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm learning how to turn raw data into useful insights and real-world solutions.
+
+- 📊 Excel & Data Analysis
+- 🗄️ SQL
+- 🐍 Python
+- 📈 Data Visualization
+- 💡 Practical projects and problem-solving
+
+## 🔨 What You'll Find Here
+
+This GitHub is my learning space — a collection of projects, experiments, and things I'm building as I grow.
+
+## 🚀 Currently Learning
+
+Data Analytics | SQL | Python | Power BI
+
+## 📌 A Little About Me
+
+I believe the best way to learn is to build, make mistakes, understand why they happened, and try again.
+
+---
+
+*Learning → Building → Improving → Repeating*
